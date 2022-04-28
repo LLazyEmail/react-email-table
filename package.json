@@ -75,7 +75,7 @@
     "@storybook/cli": "6.4.20",
     "@storybook/react": "6.4.20",
     "@storybook/storybook-deployer": "2.8.11",
-    "acorn": "8.7.0",
+    "acorn": "8.7.1",
     "autoprefixer": "10.4.5",
     "babel-jest": "28.0.2",
     "babel-loader": "8.2.5",
