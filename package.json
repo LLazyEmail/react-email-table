@@ -95,7 +95,7 @@
     "eslint-plugin-react": "7.29.4",
     "eslint-plugin-react-hooks": "4.5.0",
     "fibers": "5.0.1",
-    "husky": "7.0.4",
+    "husky": "8.0.1",
     "jest": "28.0.3",
     "jest-transform-css": "4.0.0",
     "node-sass": "7.0.1",
