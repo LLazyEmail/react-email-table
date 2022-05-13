@@ -97,7 +97,7 @@
     "fibers": "5.0.1",
     "husky": "8.0.1",
     "jest": "28.1.0",
-    "jest-transform-css": "4.0.0",
+    "jest-transform-css": "4.0.1",
     "node-sass": "7.0.1",
     "postcss": "8.4.12",
     "react-test-renderer": "18.1.0",
