@@ -99,7 +99,7 @@
     "jest": "28.1.0",
     "jest-transform-css": "4.0.1",
     "node-sass": "7.0.1",
-    "postcss": "8.4.13",
+    "postcss": "8.4.14",
     "react-test-renderer": "18.1.0",
     "rollup": "2.75.5",
     "rollup-plugin-filesize": "9.1.2",
