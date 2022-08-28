@@ -23,7 +23,7 @@ jobs:
         with:
           ref: ${{ github.ref }}
       - name: Setup Node
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v3
         with:
           node-version: ${{ matrix.node }}
       - name: Cache dependencies
@@ -53,7 +53,7 @@ jobs:
         with:
           ref: ${{ github.ref }}
       - name: Setup Node
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v3
       - name: Install dependencies
         run: npm ci
       - name: Run Tests
@@ -70,7 +70,7 @@ jobs:
         with:
           ref: ${{ github.ref }}
       - name: Setup Node
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v3
       - name: Install dependencies
         run: npm ci
       - name: Run Build
@@ -92,7 +92,7 @@ jobs:
         with:
           ref: ${{ github.ref }}
       - name: Setup Node
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v3
       - name: Install dependencies
         run: npm ci
       - name: Run Build
